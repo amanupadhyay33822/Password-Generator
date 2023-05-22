@@ -151,6 +151,10 @@ h1 {
     color: var(--vb-yellow);
     font-weight: 600;
     font-size: 1.25rem;
+    
+  }
+.generateButton:hover{
+    cursor: pointer;
   }
 
 .check {
